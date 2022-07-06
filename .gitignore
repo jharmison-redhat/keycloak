@@ -29,6 +29,11 @@ nbproject
 ###########
 *.code-workspace
 
+# VIM #
+#######
+*.swp
+tags
+
 # Compiled source #
 ###################
 *.com
